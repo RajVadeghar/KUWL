@@ -33,6 +33,7 @@
     }
   },
   "rules": {
+    "comma-dangle": "off",
     "import/no-anonymous-default-export": "warn",
     "react/no-unknown-property": "off",
     "react/prop-types": "off",
